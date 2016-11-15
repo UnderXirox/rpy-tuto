@@ -33,7 +33,7 @@ Utilisation de TBOPlayer
 ------------------------
 
 
-
+Le paramètre ``-b`` permet de créer un arrière plan noir et ainsi d'éliminer les bandes non couvertes par la vidéo.
 
 Forcer l'audio sur le HDMI
 --------------------------
@@ -49,6 +49,7 @@ Editer le fichier /boot/config.txt et supprimer le # pour rendre active la ligne
 
 ====== ===========
 Ctrl-x Quitter nano
+o      Enregistrer
 ====== ===========
 
 
