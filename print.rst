@@ -28,4 +28,4 @@ La console d'administration est maintenant accessible en entrant l'adresse suiva
 
     http://localhost:631
 
-.. image:: images/cups.png
+.. image:: images/cups.jpg
