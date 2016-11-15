@@ -10,9 +10,9 @@ Raspberry Pi - Prise en main
    :scale: 15 %
 
 
-Contenu:
-
 .. toctree::
+   :hidden:
+
    image
    install
    print
