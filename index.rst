@@ -3,17 +3,10 @@
 Raspberry Pi - Prise en main
 ========================================================
 
-Contents:
+Contenu:
+
 
 .. toctree::
-   :maxdepth: 2
+   image
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
