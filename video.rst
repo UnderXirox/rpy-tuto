@@ -33,3 +33,22 @@ Utilisation de TBOPlayer
 ------------------------
 
 
+
+
+Forcer l'audio sur le HDMI
+--------------------------
+Il est possible que, bien que le port HDMI soit selectioné comme sortie audio, il n'ait aucun son.
+
+L'opération suivante peut corriger ce problème :
+
+Editer le fichier /boot/config.txt et supprimer le # pour rendre active la ligne hdmi_device=2. ::
+
+    sudo nano /boot/config.txt
+
+
+
+====== ===========
+Ctrl-x Quitter nano
+====== ===========
+
+
