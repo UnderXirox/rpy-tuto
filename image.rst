@@ -15,7 +15,7 @@ Selectioner la carte SD puis cliquez sur format. (**Attention à ne pas sélecti
 
 Copier tout le contenu du zip dans le répertoire de la carte SD.
 
-La carte est maintenant prête pour etre mise dans le Raspberry.
+La carte est maintenant prête pour être mise dans le Raspberry.
 
 
 Graver la SD à partir d'un fichier .img
