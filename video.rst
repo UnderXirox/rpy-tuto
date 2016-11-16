@@ -41,7 +41,7 @@ Il est possible que, bien que le port HDMI soit selectioné comme sortie audio, 
 
 L'opération suivante peut corriger ce problème :
 
-Editer le fichier /boot/config.txt et supprimer le # pour rendre active la ligne hdmi_device=2. ::
+Editer le fichier /boot/config.txt et supprimer le # pour rendre active la ligne hdmi_drive=2. ::
 
     sudo nano /boot/config.txt
 
