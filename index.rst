@@ -20,7 +20,6 @@ Raspberry Pi - Prise en main
    image
    install
    print
-   backup
    video
 
 
