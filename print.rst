@@ -29,3 +29,17 @@ La console d'administration est maintenant accessible en entrant l'adresse suiva
     http://localhost:631
 
 .. image:: images/cups.jpg
+
+Localhost, correspond à l'addresse locale.
+
+- Cliquez sur **Ajout d'imprimantes et  de classes**
+- Cliquez sur ajouter une imprimante et entrez le nom d'utilisateur (**pi**) et le mot de passe (**raspberry**)
+- Cochez l'imprimante Brother HL-2250DN et cliquez continuer
+- Cliquez à nouveau sur continuer
+
+Maintenant il faut choisr le driver pour l'imprimante, choisisez Brother HL-2060 (compatible avec ce modèle). Puis continuer.
+
+- Cliquez définir les options par défaut
+
+L'imprimante est maintenant installée.
+
