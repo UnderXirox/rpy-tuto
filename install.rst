@@ -6,13 +6,13 @@ Préparation et câblage
 ----------------------
 .. figure:: images/raspberry-pi-b-plus.jpg
 
-    Connecteura présents sur le Raspberry Pi [#]_ .
+    Connecteurs présents sur le Raspberry Pi [#]_ .
 
 Avant de mettre sous tension la carte, il faut brancher les périphériques essentiels :
 
 - Mettre la carte SD dans son emplacement
 - Connecter le câble HDMI (écran)
-- Connecter le clavier et la souris au ports USB
+- Connecter le clavier et la souris aux ports USB
 - Connecter le port micro-usb d'alimentation
 
 Le port Ethernet est falcuatif, plus tard nous allons connecter le Pi à internet par Wifi.
